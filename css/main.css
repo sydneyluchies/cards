@@ -10,8 +10,8 @@ html {
 }
 
 .cards {
-  margin: .3em;
-  padding: .6em;
+  margin: 0;
+  padding: 0;
   list-style-type: none;
   text-align: center;
 }
