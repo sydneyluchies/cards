@@ -1,20 +1,17 @@
 html {
   box-sizing: border-box;
+  background-color: #f2f2f2;
+  font-family: Georgia, serif;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
 
-html {
-  background-color: #f2f2f2;
-  font-family: Georgia, serif;
-  line-height: 1.5;
-}
-
 .cards {
-  margin: .3em
-  padding: .6em
+  margin: .3em;
+  padding: .6em;
   list-style-type: none;
   text-align: center;
 }
@@ -42,7 +39,7 @@ html {
 }
 
 .cards dl {
-  margin-bottom: 1rem;+
+  margin-bottom: 1rem;
 }
 
 .cards dt {
@@ -63,7 +60,7 @@ html {
 
 .cards a {
   display: inline-block;
-  padding; .5em .75em;
+  padding: .5em .75em;
   background-color: #ccc;
   border-radius: 4px;
   color: #000;
